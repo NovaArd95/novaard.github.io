@@ -17,6 +17,10 @@
             <div class="form-container"> <!-- Gaya wadah formulir -->
                 <div class="rectangle"></div> <!-- Rectangle di tengah -->
                 <table>
+				 <tr>
+                        <td>Id Mata Pelajaran :</td>
+                        <td><input type="text" name="idmapel" class="input-field" value="<?php echo $tampil['Id_Mapel']; ?>"></td>
+                    </tr>
                     
                     <tr>
                         <td>Id Guru :</td>

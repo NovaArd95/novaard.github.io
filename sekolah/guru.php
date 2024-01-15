@@ -17,7 +17,7 @@
             <li><a href="guru.php">Guru</a></li>
             <li><a href="kelas.php">Kelas</a></li>
             <li><a href="mapel.php">Mata Pelajaran</a></li>
-		  <li><a href="login_tampilan.php">Login</a></li>
+		  <li><a href="login_tampilan.php">Logout</a></li>
 		              <li><a>Level: Admin</a></li>
         </ul>
     </nav>
